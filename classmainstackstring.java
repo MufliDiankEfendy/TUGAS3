@@ -5,10 +5,10 @@ public class classmainstackstring {
 		classstackstring st= new classstackstring();
 		
 		
-		st.push("qadri");st.push("fandhy");
-		st.push("ucup");
-		st.push("masdar");
+		st.push("mufli");st.push("joker");
 		st.push("diank");
+		st.push("efendy");
+		st.push("jarok");
 		
 		String d0=st.pop();
 		System.out.println(d0);
